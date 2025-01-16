@@ -1,0 +1,2 @@
+local fakeban = "Same account launched experience from different device. Leave the experience on the other device and try again." 
+game.Players.LocalPlayer:Kick(fakeban) 
